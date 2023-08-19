@@ -16,3 +16,18 @@ You don’t have to handle the flag characters
 You don’t have to handle field width
 You don’t have to handle precision
 You don’t have to handle the length modifiers
+
+The folliwing files need to be created 
+_printf.c
+functions.c
+functions1.c
+functions2.c
+get_flags.c
+get_precision.c
+get_size.c
+get_width.c
+handle_print.c
+main.h
+utils.c
+write_handlers.c
+readme.md
